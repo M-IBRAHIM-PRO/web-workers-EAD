@@ -11,7 +11,11 @@ Follow these steps to run the project on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/M-IBRAHIM-PRO/web-workers-EAD.git                                                                                
+   git clone https://github.com/M-IBRAHIM-PRO/web-workers-EAD.git                                                                                                                                                                
+  
+  
+  
+  
    ```
 
 2. Navigate to the project directory:
